@@ -1,0 +1,116 @@
+.top-navbar-wrapper .nav-item .bg-custom{
+    background-color: rgba(235,227,40,255);
+}
+.top-navbar-wrapper .nav-item .bg-custom-2{
+    background-color: rgba(125,186,33,255);
+}
+.lower-header-navbar{
+    border-top: 1px solid #eee;
+}
+.lower-header-navbar .navbar-nav .nav-link:hover{
+    background-color: rgba(125,186,33,255);
+    color: aliceblue;
+}
+.carousel-1 .carousel-caption{
+    bottom: 10%;
+    left: 17%;
+}
+.carousel-1 .carousel-caption .btn{
+    background-color: #fff;
+}
+.carousel-1 .carousel-caption .btn:hover{
+    background-color: rgba(125,186,33,255);
+    color: #fff;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: rgba(125,186,33,255);
+}
+.nav-link {
+    color: black;
+}
+.carousel-2-wrapper .carousel-indicators {
+    bottom: 105%;
+    top: -48px;
+}
+.carousel-2-wrapper .carousel-indicators button {
+    width: 8px;
+    height: 8px;
+    background-color: #aaa;
+}
+.carousel-2-wrapper .card:hover{
+    border-bottom: 2px solid rgba(125,186,33,255);
+}
+.carousel-3-wrapper button:hover{
+    background-color: rgba(235,227,40,255);
+}
+.carousel-3-wrapper button{
+    border: 0;
+}
+.properties .nav{
+    border: 1px solid black;
+    width: 884px;
+}
+.properties .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+}
+.properties .card:hover{
+    border-bottom: 2px solid rgba(125,186,33,255);
+}
+.professionals-info-wrapper .carousel-indicators{
+    top: -10px;
+}
+.professionals-info-wrapper .carousel-indicators button {
+    width: 8px;
+    height: 8px;
+    background-color: #aaa;
+}
+.news-section-wrapper .carousel-indicators{
+    top: -10px;
+}
+.news-section-wrapper .carousel-indicators button {
+    width: 8px;
+    height: 8px;
+    background-color: #aaa;
+}
+.news-section-wrapper .card a:hover{
+    background-color: rgba(125,186,33,255);
+}
+.news-section-wrapper .card:hover{
+    border-bottom:2px solid rgba(125,186,33,255);
+}
+.supporting-companies-wrapper .card a:hover{
+    background-color: rgba(125,186,33,255);
+}
+.lower-footer-wrapper ul li{
+    list-style-type: none;
+}
+.office-address-wrapper .card:hover{
+    border-bottom: 2px solid rgba(125,186,33,255);
+}
+.carousel-cards-wrapper .card button:hover{
+    background-color: rgba(125,186,33,255);
+}
+.f-a-q-wrapper .body-2 button{
+    background-color: #eee;
+}
+.f-a-q-wrapper .body-2 button:hover{
+    background-color: #fff;
+}
+.f-a-q-wrapper .body-2 .tab-content{
+    border: 1px solid #eee;
+}
+.column-tabs-wrapper .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: rgba(42,42,42,255);
+}
+.s-top-card-wrapper .card:hover{
+    border-bottom: 2px solid rgba(125,186,33,255);
+}
+.s-top-card-wrapper .card i:hover{
+    color: rgba(125,186,33,255);
+}
+.s-2-cards-wrapper .card i:hover{
+    color: rgba(125,186,33,255);
+}
